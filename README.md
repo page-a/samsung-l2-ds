@@ -5,7 +5,7 @@
 ### 수업 자료 다운로드
 
 1. `<> Code` 버튼을 클릭합니다.
-2. [Download ZIP]을 클릭해 수업 자료 전체를 다운로드합니다.
+2. `Download ZIP`을 클릭해 수업 자료 전체를 다운로드합니다.
 
 ![image](https://user-images.githubusercontent.com/43348218/209629162-51260723-237d-4868-a196-5f96e96a33b7.jpg)
 
