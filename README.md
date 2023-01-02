@@ -11,11 +11,16 @@
 
 ### 2. 폴더 정리
 
-1. 다운로드한 ZIP 파일의 압축을 풉니다.
-2. samsung-l2-ds 폴더 안의 Dataset, Notes 2개 파일의 압축을 풉니다. (파일의 비밀번호는 사전 통지와 수업 전에 알려드립니다.)
+1. 다운로드한 ZIP 파일의 압축을 풉니다. (파일의 비밀번호는 사전 통지와 수업 전에 알려드립니다.)
+2. samsung-l2-ds 폴더 안의 Dataset, Notes 2개 파일의 압축을 풉니다. 
 3. samsung-l2-ds 폴더를 바탕 화면으로 이동시켜 줍니다.
 
-![image](https://user-images.githubusercontent.com/43348218/206940247-1c61de56-8fc8-45f5-b799-6cef3ddfedb9.png)
+
+<p align='center'>
+  <img src="https://user-images.githubusercontent.com/43348218/206940247-1c61de56-8fc8-45f5-b799-6cef3ddfedb9.png">
+</p>
+
+4. `jupyter notebook` 을 실행하여 Notes 폴더에 있는 쥬피터 노트북 파일이 열어지는 지 확인합니다. 
 
 ### 3. 환경 설정
 
